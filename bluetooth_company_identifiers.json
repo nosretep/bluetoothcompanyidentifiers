@@ -1933,5 +1933,40 @@
     "decimal":"386",
     "hexadecimal":"0x0182",
     "name":"HOP Ubiquitous"
+  },
+  {
+    "decimal":"387",
+    "hexadecimal":"0x0183",
+    "name":"### EMPTY ###"
+  },
+  {
+    "decimal":"388",
+    "hexadecimal":"0x0184",
+    "name":"Nectar"
+  },
+  {
+    "decimal":"389",
+    "hexadecimal":"0x0185",
+    "name":"bel'apps LLC"
+  },
+  {
+    "decimal":"390",
+    "hexadecimal":"0x0186",
+    "name":"CORE Lighting Ltd"
+  },
+​  {
+    "decimal":"391",
+    "hexadecimal":"0x0187",
+    "name":"Seraphim Sense Ltd"
+  },
+  {
+    "decimal":"392",
+    "hexadecimal":"0x0188",
+    "name":"Unico RBC"
+  },
+  {
+    "decimal":"393",
+    "hexadecimal":"0x0189",
+    "name":"Physical Enterprises Inc."
   }
 ]
