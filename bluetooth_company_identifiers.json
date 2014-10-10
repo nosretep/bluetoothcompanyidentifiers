@@ -1954,7 +1954,7 @@
     "hexadecimal":"0x0186",
     "name":"CORE Lighting Ltd"
   },
-​  {
+  {
     "decimal":"391",
     "hexadecimal":"0x0187",
     "name":"Seraphim Sense Ltd"
@@ -1968,5 +1968,30 @@
     "decimal":"393",
     "hexadecimal":"0x0189",
     "name":"Physical Enterprises Inc."
+  },
+  {
+    "decimal":"394",
+    "hexadecimal":"0x018A",
+    "name":"Able Trend Technology Limited"
+  },
+  {
+    "decimal":"395",
+    "hexadecimal":"0x018B",
+    "name":"Konica Minolta, Inc."
+  },
+  {
+    "decimal":"396",
+    "hexadecimal":"0x018C",
+    "name":"Wilo SE"
+  },
+  {
+    "decimal":"397",
+    "hexadecimal":"0x018D",
+    "name":"Extron Design Services"
+  },
+  {
+    "decimal":"398",
+    "hexadecimal":"0x018E",
+    "name":"Fitbit, Inc."
   }
 ]
