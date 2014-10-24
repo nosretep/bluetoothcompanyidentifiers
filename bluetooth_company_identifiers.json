@@ -1993,5 +1993,41 @@
     "decimal":"398",
     "hexadecimal":"0x018E",
     "name":"Fitbit, Inc."
+  },
+  {
+    "decimal":"399",
+    "hexadecimal":"0x018F",
+    "name":"Fireflies Systems"
+  },
+  {
+    "decimal":"400",
+    "hexadecimal":"0x0190",
+    "name":"Intelletto Technologies Inc"
+  },
+  {
+    "decimal":"401",
+    "hexadecimal":"0x0191",
+    "name":"FDK CORPORATION"
+  },
+  {
+    "decimal":"402",
+    "hexadecimal":"0x0192",
+    "name":"Cloudleaf, Inc"
+  },
+  {
+    "decimal":"403",
+    "hexadecimal":"0x0193",
+    "name":"Maveric Automation LLC"
+  },
+  {
+    "decimal":"404",
+    "hexadecimal":"0x0194",
+    "name":"Acoustic Stream Corporation"
+  },
+  {
+    "decimal":"405",
+    "hexadecimal":"0x0195",
+    "name":"Zuli"
   }
+
 ]
