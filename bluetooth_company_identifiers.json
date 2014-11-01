@@ -2028,6 +2028,25 @@
     "decimal":"405",
     "hexadecimal":"0x0195",
     "name":"Zuli"
+  },
+  {
+    "decimal":"406",
+    "hexadecimal":"0x0196",
+    "name":"Paxton Access Ltd"
+  },
+  {
+    "decimal":"407",
+    "hexadecimal":"0x0197",
+    "name":"WiSilica Inc"
+  },
+  {
+    "decimal":"408",
+    "hexadecimal":"0x0198",
+    "name":"Vengit Limited"
+  },
+  {
+    "decimal":"409",
+    "hexadecimal":"0x0199",
+    "name":"SALTO SYSTEMS S.L."
   }
-
 ]
