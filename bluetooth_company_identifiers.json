@@ -2063,5 +2063,35 @@
     "decimal":"412",
     "hexadecimal":"0x019C",
     "name":"Cokiya Incorporated"
+  },
+  {
+    "decimal":"413",
+    "hexadecimal":"0x019D",
+    "name":"CVS Health"
+  },
+  {
+    "decimal":"414",
+    "hexadecimal":"0x019E",
+    "name":"Ceruus"
+  },
+  {
+    "decimal":"415",
+    "hexadecimal":"0x019F",
+    "name":"Strainstall Ltd"
+  },
+  {
+    "decimal":"416",
+    "hexadecimal":"0x01A0",
+    "name":"Channel Enterprises (HK) Ltd."
+  },
+  {
+    "decimal":"417",
+    "hexadecimal":"0x01A1",
+    "name":"FIAMM"
+  },
+  {
+    "decimal":"418",
+    "hexadecimal":"0x01A2",
+    "name":"GIGALANE.CO.,LTD"
   }
 ]
