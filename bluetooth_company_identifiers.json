@@ -2093,5 +2093,30 @@
     "decimal":"418",
     "hexadecimal":"0x01A2",
     "name":"GIGALANE.CO.,LTD"
+  },
+  {
+    "decimal":"419",
+    "hexadecimal":"0x01A3",
+    "name":"EROAD"
+  },
+  {
+    "decimal":"420",
+    "hexadecimal":"0x01A4",
+    "name":"Mine Safety Appliances"
+  },
+  {
+    "decimal":"421",
+    "hexadecimal":"0x01A5",
+    "name":"Icon Health and Fitness"
+  },
+  {
+    "decimal":"422",
+    "hexadecimal":"0x01A6",
+    "name":"Asandoo GmbH"
+  },
+  {
+    "decimal":"423",
+    "hexadecimal":"0x01A7",
+    "name":"ENERGOUS CORPORATION"
   }
 ]
