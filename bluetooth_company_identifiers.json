@@ -2118,5 +2118,45 @@
     "decimal":"423",
     "hexadecimal":"0x01A7",
     "name":"ENERGOUS CORPORATION"
+  },
+  {
+    "decimal":"424",
+    "hexadecimal":"0x01A8",
+    "name":"Taobao"
+  },
+  {
+    "decimal":"425",
+    "hexadecimal":"0x01A9",
+    "name":"Canon Inc."
+  },
+  {
+    "decimal":"426",
+    "hexadecimal":"0x01AA",
+    "name":"Geophysical Technology Inc."
+  },
+  {
+    "decimal":"427",
+    "hexadecimal":"0x01AB",
+    "name":"Facebook, Inc."
+  },
+  {
+    "decimal":"428",
+    "hexadecimal":"0x01AC",
+    "name":"Nipro Diagnostics, Inc."
+  },
+  {
+    "decimal":"429",
+    "hexadecimal":"0x01AD",
+    "name":"FlightSafety International"
+  },
+  {
+    "decimal":"430",
+    "hexadecimal":"0x01AE",
+    "name":"Earlens Corporation"
+  },
+  {
+    "decimal":"431",
+    "hexadecimal":"0x01AF",
+    "name":"Sunrise Micro Devices, Inc."
   }
 ]
