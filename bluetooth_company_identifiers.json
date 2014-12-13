@@ -2158,5 +2158,15 @@
     "decimal":"431",
     "hexadecimal":"0x01AF",
     "name":"Sunrise Micro Devices, Inc."
+  },
+  {
+    "decimal":"432",
+    "hexadecimal":"0x01B0",
+    "name":"Star Micronics Co., Ltd."
+  },
+  {
+    "decimal":"433",
+    "hexadecimal":"0x01B1",
+    "name":"Netizens Sp. z o.o."
   }
 ]
