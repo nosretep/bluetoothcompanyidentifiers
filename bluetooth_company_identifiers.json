@@ -2168,5 +2168,35 @@
     "decimal":"433",
     "hexadecimal":"0x01B1",
     "name":"Netizens Sp. z o.o."
+  },
+  {
+    "decimal":"434",
+    "hexadecimal":"0x01B2",
+    "name":"Nymi Inc."
+  },
+  {
+    "decimal":"435",
+    "hexadecimal":"​0x01B3",
+    "name":"Nytec, Inc."
+  },
+  {
+    "decimal":"436",
+    "hexadecimal":"​0x01B4",
+    "name":"Trineo Sp. z o.o."
+  },
+  {
+    "decimal":"437",
+    "hexadecimal":"​0x01B5",
+    "name":"Nest Labs Inc."
+  },
+  {
+    "decimal":"438",
+    "hexadecimal":"​0x01B6",
+    "name":"LM Technologies Ltd"
+  },
+  {
+    "decimal":"439",
+    "hexadecimal":"​0x01B7",
+    "name":"General Electric Company"
   }
 ]
