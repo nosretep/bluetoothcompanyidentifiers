@@ -2198,5 +2198,30 @@
     "decimal":"439",
     "hexadecimal":"​0x01B7",
     "name":"General Electric Company"
+  },
+  {
+    "decimal":"440",
+    "hexadecimal":"​0x01B8",
+    "name":"i+D3 S.L."
+  },
+  {
+    "decimal":"441",
+    "hexadecimal":"​0x01B9",
+    "name":"HANA Micron"
+  },
+  {
+    "decimal":"442",
+    "hexadecimal":"​0x01BA",
+    "name":"Stages Cycling LLC"
+  },
+  {
+    "decimal":"443",
+    "hexadecimal":"​0x01BB",
+    "name":"Cochlear Bone Anchored Solutions AB"
+  },
+  {
+    "decimal":"444",
+    "hexadecimal":"​0x01BC",
+    "name":"SenionLab AB"
   }
 ]
