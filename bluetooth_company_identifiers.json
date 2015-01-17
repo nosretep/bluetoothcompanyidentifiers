@@ -2223,5 +2223,20 @@
     "decimal":"444",
     "hexadecimal":"​0x01BC",
     "name":"SenionLab AB"
+  },
+  {
+    "decimal":"445",
+    "hexadecimal":"​0x01BD",
+    "name":"Syszone Co., Ltd"
+  },
+  {
+    "decimal":"446",
+    "hexadecimal":"​0x01BE",
+    "name":"Pulsate Mobile Ltd."
+  },
+  {
+    "decimal":"447",
+    "hexadecimal":"​0x01BF",
+    "name":"Hong Kong HunterSun Electronic Limited"
   }
 ]
