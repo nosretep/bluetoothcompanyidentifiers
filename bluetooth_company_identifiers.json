@@ -2238,5 +2238,25 @@
     "decimal":"447",
     "hexadecimal":"​0x01BF",
     "name":"Hong Kong HunterSun Electronic Limited"
+  },
+  {
+    "decimal":"448",
+    "hexadecimal":"​​0x01C0",
+    "name":"pironex GmbH"
+  },
+  {
+    "decimal":"449",
+    "hexadecimal":"​​0x01C1",
+    "name":"BRADATECH Corp."
+  },
+  {
+    "decimal":"450",
+    "hexadecimal":"​​0x01C2",
+    "name":"Transenergooil AG"
+  },
+  {
+    "decimal":"451",
+    "hexadecimal":"​​0x01Ce",
+    "name":"Bunch"
   }
 ]
