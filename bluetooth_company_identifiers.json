@@ -1,5 +1,10 @@
 [
   {
+    "decimal":"65535",
+    "hexadecimal":"0xFFFF",
+    "name":"reserved"
+  },
+  {
     "decimal":"0",
     "hexadecimal":"0x0000",
     "name":"Ericsson Technology Licensing"
@@ -2256,7 +2261,97 @@
   },
   {
     "decimal":"451",
-    "hexadecimal":"​​0x01Ce",
+    "hexadecimal":"​​0x01C3",
     "name":"Bunch"
+  },
+  {
+    "decimal":"452",
+    "hexadecimal":"​​0x01C4",
+    "name":"DME Microelectronics"
+  },
+  {
+    "decimal":"453",
+    "hexadecimal":"​​0x01C5",
+    "name":"Bitcraze AB"
+  },
+  {
+    "decimal":"454",
+    "hexadecimal":"​​0x01C6",
+    "name":"HASWARE Inc."
+  },
+  {
+    "decimal":"455",
+    "hexadecimal":"​​0x01C7",
+    "name":"Abiogenix Inc."
+  },
+  {
+    "decimal":"456",
+    "hexadecimal":"​​0x01C8",
+    "name":"Poly-Control ApS"
+  },
+  {
+    "decimal":"457",
+    "hexadecimal":"​​0x01C9",
+    "name":"Avi-on"
+  },
+  {
+    "decimal":"458",
+    "hexadecimal":"​​0x01CA",
+    "name":"Laerdal Medical AS"
+  },
+  {
+    "decimal":"459",
+    "hexadecimal":"​​0x01CB",
+    "name":"Fetch My Pet"
+  },
+  {
+    "decimal":"460",
+    "hexadecimal":"​​0x01CC",
+    "name":"Sam Labs Ltd."
+  },
+  {
+    "decimal":"461",
+    "hexadecimal":"​​0x01CD",
+    "name":"Chengdu Synwing Technology Ltd"
+  },
+  {
+    "decimal":"462",
+    "hexadecimal":"​​0x01CE",
+    "name":"HOUWA SYSTEM DESIGN, k.k."
+  },
+  {
+    "decimal":"463",
+    "hexadecimal":"​​0x01CF",
+    "name":"BSH"
+  },
+  {
+    "decimal":"464",
+    "hexadecimal":"​​0x01D0",
+    "name":"Primus Inter Pares Ltd"
+  },
+  {
+    "decimal":"465",
+    "hexadecimal":"​​0x01D1",
+    "name":"August"
+  },
+  {
+    "decimal":"466",
+    "hexadecimal":"​​0x01D2",
+    "name":"Gill Electronics"
+  },
+  {
+    "decimal":"467",
+    "hexadecimal":"​​0x01D3",
+    "name":"Sky Wave Design"
+  },
+  {
+    "decimal":"468",
+    "hexadecimal":"​​0x01D4",
+    "name":"Newlab S.r.l."
+  },
+  {
+    "decimal":"469",
+    "hexadecimal":"​​0x01D5",
+    "name":"ELAD srl"
   }
 ]
