@@ -2353,5 +2353,100 @@
     "decimal":"469",
     "hexadecimal":"​​0x01D5",
     "name":"ELAD srl"
+  },
+  {
+    "decimal":"470",
+    "hexadecimal":"​​0x01D6",
+    "name":"G-wearables inc."
+  },
+  {
+    "decimal":"471",
+    "hexadecimal":"​​0x01D7",
+    "name":"Squadrone Systems Inc."
+  },
+  {
+    "decimal":"472",
+    "hexadecimal":"​​0x01D8",
+    "name":"Code Corporation"
+  },
+  {
+    "decimal":"473",
+    "hexadecimal":"​​0x01D9",
+    "name":"Savant Systems LLC"
+  },
+  {
+    "decimal":"474",
+    "hexadecimal":"​​0x01DA",
+    "name":"​Logitech International SA"
+  },
+  {
+    "decimal":"475",
+    "hexadecimal":"​​0x01DB",
+    "name":"​Innblue Consulting"
+  },
+  {
+    "decimal":"476",
+    "hexadecimal":"​​0x01DC",
+    "name":"iParking Ltd."
+  },
+  {
+    "decimal":"477",
+    "hexadecimal":"​​0x01DD",
+    "name":"​Koninklijke Philips Electronics N.V."
+  },
+  {
+    "decimal":"478",
+    "hexadecimal":"​​0x01DE",
+    "name":"​Minelab Electronics Pty Limited"
+  },
+  {
+    "decimal":"479",
+    "hexadecimal":"​​0x01DF",
+    "name":"​​Bison Group Ltd."
+  },
+  {
+    "decimal":"480",
+    "hexadecimal":"​​0x01E0",
+    "name":"​​​Widex A/S"
+  },
+  {
+    "decimal":"481",
+    "hexadecimal":"​​0x01E1",
+    "name":"​Jolla Ltd"
+  },
+  {
+    "decimal":"482",
+    "hexadecimal":"​​0x01E2",
+    "name":"​​Lectronix, Inc."
+  },
+  {
+    "decimal":"483",
+    "hexadecimal":"​​0x01E3",
+    "name":"​​Caterpillar Inc"
+  },
+  {
+    "decimal":"484",
+    "hexadecimal":"​​0x01E4",
+    "name":"​​Freedom Innovations"
+  },
+  {
+    "decimal":"485",
+    "hexadecimal":"​​0x01E5",
+    "name":"​​Dynamic Devices Ltd"
+  },
+  {
+    "decimal":"486",
+    "hexadecimal":"​​0x01E6",
+    "name":"​​Technology Solutions (UK) Ltd"
+  },
+  {
+    "decimal":"487",
+    "hexadecimal":"​​0x01E7",
+    "name":"​​IPS Group Inc."
+  },
+  {
+    "decimal":"488",
+    "hexadecimal":"​​0x01E8",
+    "name":"​STIR"
   }
 ]
