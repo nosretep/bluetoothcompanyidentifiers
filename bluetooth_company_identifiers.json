@@ -2448,5 +2448,65 @@
     "decimal":"488",
     "hexadecimal":"​​0x01E8",
     "name":"​STIR"
+  },
+  {
+    "decimal":"489",
+    "hexadecimal":"0x01E9",
+    "name":"​Sano, Inc"
+  },
+  {
+    "decimal":"490",
+    "hexadecimal":"0x01EA",
+    "name":"​Advanced Application Design, Inc.​"
+  },
+  {
+    "decimal":"491",
+    "hexadecimal":"0x01EB",
+    "name":"​AutoMap LLC​​"
+  },
+  {
+    "decimal":"492",
+    "hexadecimal":"0x01EC",
+    "name":"​​Spreadtrum Communications Shanghai Ltd"
+  },
+  {
+    "decimal":"​493",
+    "hexadecimal":"0x01ED",
+    "name":"​​CuteCircuit LTD"
+  },
+  {
+    "decimal":"​494",
+    "hexadecimal":"0x01EE",
+    "name":"​​​Valeo Service"
+  },
+  {
+    "decimal":"​495",
+    "hexadecimal":"0x01EF",
+    "name":"​​​Fullpower Technologies, Inc."
+  },
+  {
+    "decimal":"​496",
+    "hexadecimal":"0x01F0",
+    "name":"KloudNation"
+  },
+  {
+    "decimal":"​497",
+    "hexadecimal":"0x01F1",
+    "name":"​Zebra Technologies Corporation"
+  },
+  {
+    "decimal":"​498",
+    "hexadecimal":"0x01F2",
+    "name":"Itron, Inc."
+  },
+  {
+    "decimal":"​499",
+    "hexadecimal":"0x01F3",
+    "name":"The University of Tokyo"
+  },
+  {
+    "decimal":"​500",
+    "hexadecimal":"0x01F4",
+    "name":"​UTC Fire and Security"
   }
 ]
