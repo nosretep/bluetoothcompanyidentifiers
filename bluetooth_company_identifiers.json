@@ -2508,5 +2508,80 @@
     "decimal":"​500",
     "hexadecimal":"0x01F4",
     "name":"​UTC Fire and Security"
+  },
+  {
+    "decimal":"​501",
+    "hexadecimal":"0x01F5",
+    "name":"Cool Webthings Limited"
+  },
+  {
+    "decimal":"​502",
+    "hexadecimal":"0x01F6",
+    "name":"DJO Global"
+  },
+  {
+    "decimal":"​503",
+    "hexadecimal":"0x01F7",
+    "name":"​Gelliner Limited"
+  },
+  {
+    "decimal":"​504",
+    "hexadecimal":"0x01F8",
+    "name":"​Anyka (Guangzhou) Microelectronics Technology Co, LTD"
+  },
+  {
+    "decimal":"​505",
+    "hexadecimal":"0x01F9",
+    "name":"​Medtronic, Inc."
+  },
+  {
+    "decimal":"​506",
+    "hexadecimal":"0x01FA",
+    "name":"​Gozio, Inc."
+  },
+  {
+    "decimal":"​507",
+    "hexadecimal":"0x01FB",
+    "name":"​Form Lifting, LLC"
+  },
+  {
+    "decimal":"​508",
+    "hexadecimal":"0x01FC",
+    "name":"Wahoo Fitness, LLC"
+  },
+  {
+    "decimal":"​509",
+    "hexadecimal":"0x01FD",
+    "name":"Kontakt Micro-Location Sp. z o.o."
+  },
+  {
+    "decimal":"​510",
+    "hexadecimal":"0x01FE",
+    "name":"Radio System Corporation"
+  },
+  {
+    "decimal":"​511",
+    "hexadecimal":"0x01FF",
+    "name":"Freescale Semiconductor, Inc."
+  },
+  {
+    "decimal":"​512",
+    "hexadecimal":"0x0200",
+    "name":"Verifone Systems PTe Ltd. Taiwan Branch"
+  },
+  {
+    "decimal":"​513",
+    "hexadecimal":"0x0201",
+    "name":"​AR Timing"
+  },
+  {
+    "decimal":"​514",
+    "hexadecimal":"0x0202",
+    "name":"​​Rigado LLC"
+  },
+  {
+    "decimal":"​515",
+    "hexadecimal":"0x0203",
+    "name":"​​Kemppi Oy"
   }
 ]
