@@ -2618,5 +2618,75 @@
     "decimal":"​522",
     "hexadecimal":"0x02​0A",
     "name":"​Macnica Inc."
+  },
+  {
+    "decimal":"​523",
+    "hexadecimal":"0x020B​",
+    "name":"Jaguar Land Rover Limited"
+  },
+  {
+    "decimal":"​524",
+    "hexadecimal":"0x020C​",
+    "name":"​CoroWare Technologies, Inc"
+  },
+  {
+    "decimal":"​525",
+    "hexadecimal":"0x020D​",
+    "name":"​Simplo Technology Co., LTD"
+  },
+  {
+    "decimal":"​526",
+    "hexadecimal":"0x020E​",
+    "name":"Omron Healthcare Co., LTD"
+  },
+  {
+    "decimal":"​527",
+    "hexadecimal":"0x020F​",
+    "name":"Comodule GMBH"
+  },
+  {
+    "decimal":"​528",
+    "hexadecimal":"0x0210​",
+    "name":"ikeGPS"
+  },
+  {
+    "decimal":"​529",
+    "hexadecimal":"0x0211​",
+    "name":"Telink Semiconductor Co. Ltd"
+  },
+  {
+    "decimal":"​530",
+    "hexadecimal":"0x0212​",
+    "name":"​Interplan Co., Ltd"
+  },
+  {
+    "decimal":"​531",
+    "hexadecimal":"0x0213​",
+    "name":"​Wyler AG"
+  },
+  {
+    "decimal":"​532",
+    "hexadecimal":"0x0214​",
+    "name":"IK Multimedia Production srl"
+  },
+  {
+    "decimal":"​533",
+    "hexadecimal":"0x0215​",
+    "name":"​Lukoton Experience Oy"
+  },
+  {
+    "decimal":"​534",
+    "hexadecimal":"0x0216​",
+    "name":"MTI Ltd"
+  },
+  {
+    "decimal":"​535",
+    "hexadecimal":"0x0217​",
+    "name":"Tech4home, Lda"
+  },
+  {
+    "decimal":"​536",
+    "hexadecimal":"0x0218",
+    "name":"​Hiotech AB"
   }
 ]
