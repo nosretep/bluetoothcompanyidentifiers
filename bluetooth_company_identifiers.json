@@ -2583,5 +2583,40 @@
     "decimal":"​515",
     "hexadecimal":"0x0203",
     "name":"​​Kemppi Oy"
+  },
+  {
+    "decimal":"​516",
+    "hexadecimal":"0x0204",
+    "name":"​​Tapcentive Inc."
+  },
+  {
+    "decimal":"​517",
+    "hexadecimal":"0x0205",
+    "name":"​​Smartbotics Inc."
+  },
+  {
+    "decimal":"​518",
+    "hexadecimal":"0x0206",
+    "name":"Otter Products, LLC​"
+  },
+  {
+    "decimal":"​519",
+    "hexadecimal":"0x0207",
+    "name":"STEMP Inc."
+  },
+  {
+    "decimal":"​520",
+    "hexadecimal":"0x0208",
+    "name":"​LumiGeek LLC"
+  },
+  {
+    "decimal":"​521",
+    "hexadecimal":"0x0209",
+    "name":"​InvisionHeart Inc."
+  },
+  {
+    "decimal":"​522",
+    "hexadecimal":"0x02​0A",
+    "name":"​Macnica Inc."
   }
 ]
