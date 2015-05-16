@@ -2688,5 +2688,45 @@
     "decimal":"​536",
     "hexadecimal":"0x0218",
     "name":"​Hiotech AB"
+  },
+  {
+    "decimal":"​537",
+    "hexadecimal":"0x0219",
+    "name":"​DOTT Limited"
+  },
+  {
+    "decimal":"​538",
+    "hexadecimal":"0x021A",
+    "name":"​Blue Speck Labs, LLC"
+  },
+  {
+    "decimal":"​539",
+    "hexadecimal":"0x021B",
+    "name":"​Cisco Systems Inc"
+  },
+  {
+    "decimal":"​540",
+    "hexadecimal":"0x021C",
+    "name":"​Mobicomm Inc"
+  },
+  {
+    "decimal":"​541",
+    "hexadecimal":"0x021D",
+    "name":"​​Edamic"
+  },
+  {
+    "decimal":"​542",
+    "hexadecimal":"0x021E",
+    "name":"​​Goodnet Ltd"
+  },
+  {
+    "decimal":"​543",
+    "hexadecimal":"0x021F",
+    "name":"​​Luster Leaf Products Inc"
+  },
+  {
+    "decimal":"​544",
+    "hexadecimal":"0x0220",
+    "name":"​​Manus Machina BV"
   }
 ]
