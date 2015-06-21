@@ -2823,5 +2823,40 @@
     "decimal":"​563",
     "hexadecimal":"0x0233",
     "name":"Shenzhen SuLong Communication Ltd"
+  },
+  {
+    "decimal":"​564",
+    "hexadecimal":"0x0234",
+    "name":"FengFan (BeiJing) Technology Co, Ltd"
+  },
+  {
+    "decimal":"​565",
+    "hexadecimal":"0x0235",
+    "name":"Qrio Inc"
+  },
+  {
+    "decimal":"​566",
+    "hexadecimal":"0x0236",
+    "name":"Pitpatpet Ltd"
+  },
+  {
+    "decimal":"​567",
+    "hexadecimal":"0x0237",
+    "name":"MSHeli s.r.l."
+  },
+  {
+    "decimal":"​568",
+    "hexadecimal":"0x0238",
+    "name":"Trakm8 Ltd"
+  },
+  {
+    "decimal":"​569",
+    "hexadecimal":"0x0239",
+    "name":"​JIN CO, Ltd"
+  },
+  {
+    "decimal":"​570",
+    "hexadecimal":"0x023A",
+    "name":"​Alatech Technology"
   }
 ]
