@@ -2858,5 +2858,85 @@
     "decimal":"​570",
     "hexadecimal":"0x023A",
     "name":"​Alatech Technology"
+  },
+  {
+    "decimal":"​571",
+    "hexadecimal":"0x023B",
+    "name":"Beijing CarePulse Electronic Technology Co, Ltd"
+  },
+  {
+    "decimal":"​572",
+    "hexadecimal":"0x023C",
+    "name":"Awarepoint"
+  },
+  {
+    "decimal":"​573",
+    "hexadecimal":"0x023D",
+    "name":"​ViCentra B.V."
+  },
+  {
+    "decimal":"​574",
+    "hexadecimal":"0x023E",
+    "name":"​Raven Industries"
+  },
+  {
+    "decimal":"​575",
+    "hexadecimal":"0x023F",
+    "name":"​WaveWare Technologies"
+  },
+  {
+    "decimal":"​576",
+    "hexadecimal":"0x0240",
+    "name":"Argenox Technologies"
+  },
+  {
+    "decimal":"​577",
+    "hexadecimal":"0x0241",
+    "name":"Bragi GmbH"
+  },
+  {
+    "decimal":"​578",
+    "hexadecimal":"0x0242",
+    "name":"16Lab Inc"
+  },
+  {
+    "decimal":"​579",
+    "hexadecimal":"0x0243",
+    "name":"Masimo Corp"
+  },
+  {
+    "decimal":"​580",
+    "hexadecimal":"0x0244",
+    "name":"Iotera Inc."
+  },
+  {
+    "decimal":"​581",
+    "hexadecimal":"0x0245",
+    "name":"Endress+Hauser"
+  },
+  {
+    "decimal":"​582",
+    "hexadecimal":"0x0246",
+    "name":"​ACKme Networks, Inc."
+  },
+  {
+    "decimal":"​583",
+    "hexadecimal":"0x0247",
+    "name":"​FiftyThree Inc."
+  },
+  {
+    "decimal":"​584",
+    "hexadecimal":"0x0248",
+    "name":"​Parker Hannifin Corp​"
+  },
+  {
+    "decimal":"​585",
+    "hexadecimal":"0x0249",
+    "name":"​Transcranial Ltd"
+  },
+  {
+    "decimal":"​586",
+    "hexadecimal":"0x024A",
+    "name":"​​Uwatec AG"
   }
 ]
